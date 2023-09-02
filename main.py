@@ -1,0 +1,6 @@
+print("Please choose your voting method...")
+print("1. Plurality")
+print("2. Two-round")
+print("3. Ranked-choice")
+chosen_method = input ()
+print("You have selected the", (chosen_method), "method")
